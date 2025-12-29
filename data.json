@@ -1,12 +1,12 @@
 {
   "metadata": {
     "PurchaseListID": "PL_20251229_002",
-    "CreatedOn": "2025-12-29T13:02:22.5096486Z",
-    "CreatedBy": "k64121947",
+    "CreatedOn": "2025-12-29T13:05:30.4525489Z",
+    "EditedBy": "k64121947",
     "TotalEstimation": 5220.00,
-    "Status": "Draft",
+    "Status": "Ready",
     "PlannedDate": "2026-01-09T00:00:00",
-    "Remarks": "For JanaNayagan Release",
+    "Remarks": "For JanaNayagan Release, Finalized.",
     "Deducted": true
   },
   "materials": [
